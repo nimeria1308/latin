@@ -1,8 +1,23 @@
 import pprint
+import unicodedata
+
+
+def normalize_char(char):
+    d = unicodedata.decomposition(char)
+    if d:
+        d = d.split(' ')[0]
+        d = int(d, 16)
+        return str(chr(d))
+    else:
+        return char
+
+
+def normalize_word(word):
+    return "".join([normalize_char(c) for c in word.strip()]).lower()
 
 
 def parse_words(words):
-    return [w.strip() for w in words.split(',')]
+    return [normalize_word(w) for w in words.split(',')]
 
 
 def parse_line(line):
@@ -12,17 +27,27 @@ def parse_line(line):
     return words, definitions
 
 
-def read_word_dict(f):
-    word_dict = []
+def add_definition(d, word, definition):
+    if word not in d:
+        d[word] = set()
+
+    d[word].add(definition)
+
+
+def read_dicts(f):
+    word_to_defs = {}
+    defs_to_words = {}
 
     for line in f:
-        print(line)
         words, definitions = parse_line(line)
-        word_dict.append((words, definitions))
+        for w in words:
+            for d in definitions:
+                add_definition(word_to_defs, w, d)
+                add_definition(defs_to_words, d, w)
 
-    return word_dict
+    return word_to_defs, defs_to_words
 
 
-with open("words.txt") as f:
-    word_dict = read_word_dict(f)
-    pprint.pprint(word_dict)
+with open("words_2.txt") as f:
+    word_to_defs, defs_to_words = read_dicts(f)
+    pprint.pprint(defs_to_words)
