@@ -1,4 +1,3 @@
-import pprint
 import unicodedata
 
 
@@ -46,8 +45,3 @@ def read_dicts(f):
                 add_definition(defs_to_words, d, w)
 
     return word_to_defs, defs_to_words
-
-
-with open("words_2.txt") as f:
-    word_to_defs, defs_to_words = read_dicts(f)
-    pprint.pprint(defs_to_words)
