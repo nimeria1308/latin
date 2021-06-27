@@ -1,0 +1,172 @@
+cathedra - стол, трон
+charta - хартия
+caput - глава
+littera - буква
+medicamentum - лекарство
+medicus - лекар
+barbarus - варварин
+scientia - наука
+conscientia - съзнание
+ratio - сметка, разум
+magister - учител
+discipulus - ученик
+disciplina - ред, дисциплина, научен предмет
+iurisprudentia - наука за правото
+mandatum - мисия, служба, нещо, връчено на ръка
+do - давам
+arbiter - съдник, съдия
+dictator - висш военен чин, притежаващ извънредна власт
+historia - история
+magistra - учителка
+vita - живот
+princeps - император
+obligatus - задължен (облигация)
+salto - скачам
+translator - превозвач, преводач
+desertio - напускане, самоотлъчване
+victoria - победа
+concordia - съгласие
+invidia - завист
+gloria - слава
+umbra - сянка
+causa - причина
+avaritia - алчност
+amititia - приятелство
+poena - наказание
+pecunia - пари, плячка
+modestia - умереност
+fama - слава
+puella - жена
+aquila - орел
+musca - муха
+audacia - дързост
+inopia - недоимък, бедност
+ira - гняв
+taceo - мълча
+populus - народ
+pactum - договор
+puer - момче
+vir - мъж
+dominus - господар
+servus - роб
+primus - пръв
+secundus - втори
+dolus - умисъл
+directus - пряк
+domus - дом
+filius - син
+lupus - вълк
+advocatus - адвокат
+diabolus - дявол
+tertius - трети
+locus - място
+аnimus - дух, намерение
+medicus - лекар
+otium - почивка
+vitium - порок
+astrum - звезда
+coelum - небе
+aurum - злато
+auxilium - помощ
+ferrum - желязо
+argentum - сребро
+exemplum - пример
+verbum - дума
+debitum - дълг
+periculum - опасност
+delictum - престъпление
+matrimonium - брак
+factum - нещо направено
+maleficium - злодеяние
+actio - действие, дело, процес
+ratio - разум, основание, сметка
+vocatio - призоваване, призвание
+dominatio - господство
+occasio - случай, случване
+conceptio - схващане, възглед
+constitutio - основаване, основа
+sanctio - наказание
+compensatio - прихващане, възмездие
+traditio - предаване, предание
+commotio - разтърсване
+damnatio - осъждане
+receptio - приемане, възприемане
+emissio - хвърляне, излъчване
+corruptio - разваляне
+deformatio - изкривяване
+degradatio - слизане, спадане
+legatio - пратеничество
+electio - избиране
+libertas - свобода
+veritas - истина
+facultas - възможност
+hereditas - наследство
+novitas - новост
+mediocritas - среда
+аeternitas - вечност
+societas - общност, общество
+civitas - гражданство, градски живот
+universitas - общност, вселена
+qualitas - качество
+quantitas - количество
+sobrietas - трезвеност
+firmitas - здравина, сила
+debilitas - отслабване, слабост
+voluntas - воля, желание
+prosperitas - щастие, благополучие
+pluralitas - множество
+teneo - държа
+praeceptor - наставник
+lector - читател
+оrator - говорител
+pastor - пастир
+praetor - претор, кмет
+creditor - кредитор
+debitor - длъжник
+legislator - законодател
+doctor - учител
+gladiator - гладиатор
+gladius - меч
+possessor - собственик
+emptor - купувач
+venditor - продавач
+mediator - посредник
+corrector - изправител, коректор
+timor - страх
+tremor - треперене
+fructus - плод
+sensus - чувство
+Domus - дом
+manus - ръка
+Senatus - сенат
+magistratus - магистрат
+usus - употреба
+abusus - злоупотреба
+status - положение
+domus - дом
+manus - ръка, власт
+contractus - договор
+sensus - чувство
+consensus - общо чувство, съгласие
+motus - движение
+cursus - бяг, път
+concursus - състезание
+lapsus - грешка
+casus - случай, падеж
+risus - смях
+motu proprio - по лична подбуда
+manu propria - собственоръчно
+lapsus linguae - грешка на езика
+tacitus consensus - мълчаливо съгласие
+omnium consensus - с всеобщо съгласие
+stricto sensu - в тесен, конкретен смисъл (на думата)
+brevi manu - без формалности
+status quo - настоящото положение
+res publĭca - държава
+res secundae - благополучие, сполука
+res adversae - нещастие, несполука
+res militāris - военно дело
+res familiāris - имущество, частна собственост
+res gestae - деяния, подвизи
+res novae - държавен преврат
+rerum scriptor - историк
