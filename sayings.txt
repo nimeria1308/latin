@@ -1,44 +1,39 @@
-Hic Rhodos, hic salta! – Тук е Родос, тук скачай!
-Et varia doctrina est – Съществува (има) и различно (друго) мнение
-Nihil est – нищо не съществува
-Pater patriae – Баща на родината (от pater, баща и patria, родина)
-Curriculum vitae – Път на живота (CV; от curriculum, бяг, път и vita,
-живот)
-Summa summarum – Сбор на сборовете, в крайна сметка (от summa, сбор, сметка)
-Lusus naturae – игра на природата (от lusus, игра и natura, природа)
+Hic Rhodos; hic salta! - Тук е Родос; тук скачай!
+Et varia doctrina est - Съществува (има) и различно (друго) мнение
+Nihil est - нищо не съществува
+Pater patriae - Баща на родината (от pater; баща и patria; родина)
+Curriculum vitae - Път на живота (CV. от curriculum; бяг; път и vita; живот)
+Summa summarum - Сбор на сборовете; в крайна сметка (от summa; сбор; сметка)
+Lusus naturae - игра на природата (от lusus; игра и natura; природа)
 Alĕa iacta est. - Жребият е хвърлен.
-Pecunia non satiat avaritiam, sed irritat. - Парите не задоволяват алчността, а само я дразнят.
+Pecunia non satiat avaritiam; sed irritat. - Парите не задоволяват алчността; а само я дразнят.
 Aquila non captat muscas. - Орелът не лови мухи.
 Sus Minervam docet. - Свинята учи Минерва
-Si non potes dicĕre, oportet tacēre! - Ако не можеш да говориш, трябва да мълчиш.
-Cum tacent, clamant. - Когато мълча, викам.
-Nemo non peccat, homines sumus. - Всеки греши, хора сме.
-advocatus diaboli – адвокат на дявола
-circulus vitiosus – порочен кръг
-lupus in fabulis – вълкът в приказките (= „за вълка говорим, а той в кошарата“)
-animus domini – намерение за притежание върху вещ
-dolus directus – пряк умисъл
-Medicus curat, natura sanat. - Лекарят лекува, природата прави здрав.
-Copia amicos parat, inopia probat.
-Богатството ти носи приятели, а бедността ги изпитва.
-De mortuis aut bene aut nihil. - За мъртвите или добро, или нищо!
-Bonis nocet, qui malis parcit. - Който прощава на злите, вреди на добрите.
-Lupus capillos mutat, non animum. - Вълкът мени козината си, а нрава – не.
-Pacta clara, boni amici. - Чисти сметки, добри приятели.
+Si non potes dicĕre; oportet tacēre! - Ако не можеш да говориш; трябва да мълчиш.
+Cum tacent; clamant. - Когато мълча; викам.
+Nemo non peccat; homines sumus. - Всеки греши; хора сме.
+advocatus diaboli - адвокат на дявола
+circulus vitiosus - порочен кръг
+lupus in fabulis - вълкът в приказките (= „за вълка говорим; а той в кошарата“)
+animus domini - намерение за притежание върху вещ
+dolus directus - пряк умисъл
+Medicus curat; natura sanat. - Лекарят лекува; природата прави здрав.
+Copia amicos parat; inopia probat. - Богатството ти носи приятели; а бедността ги изпитва.
+De mortuis aut bene aut nihil. - За мъртвите или добро; или нищо!
+Bonis nocet; qui malis parcit. - Който прощава на злите; вреди на добрите.
+Lupus capillos mutat; non animum. - Вълкът мени козината си; а нрава; не.
+Pacta clara; boni amici. - Чисти сметки; добри приятели.
 Otium generat vitia. - Мързелът ражда пороци.
-Verba movent, exempla trahunt. - Думите въздействат, примерите водят.
-Bis vincit, qui se vincit in victoria. - Който побеждава себе си в победата – побеждава два пъти (е двоен победител).
+Verba movent; exempla trahunt. - Думите въздействат; примерите водят.
+Bis vincit; qui se vincit in victoria. - Който побеждава себе си в победата; побеждава два пъти (е двоен победител).
 Tres faciunt collegium. - Трима правят събрание. (Трима са достатъчно за колегиум.)
 Sapiens ipse fingit fortunam suam. - Умният сам кове съдбата си
-Quantum scimus gutta est, ignoramus mare. - Това, което знаем, е капка; което не знаем – море.
+Quantum scimus gutta est; ignoramus mare. - Това; което знаем; е капка. Което не знаем; море.
 Nulla regula sine exceptione. - Никое правило не е без изключение.
 Necessitas ante rationem est. - Необходимостта е пред разума. (Необходимостта има предимство пред разума)
 Est natura humana avida novitatis. - Човешката природа е жадна за нови неща.
 Taciturnitas stulto pro sapientia est. - За глупавия мълчанието е като мъдрост. (Мълчанието е мъдростта на глупавия.)
 Clavus clavo pellitur. - Клин клин избива.
-Iudex damnatur, cum nocens absolvitur. - Съдията бива подведен под отговорност, когато бъде освободен някой виновен.
+Iudex damnatur; cum nocens absolvitur. - Съдията бива подведен под отговорност; когато бъде освободен някой виновен.
 Vitia sine praeceptore discuntur. - Пороците се научават и без учител.
-Boni pastoris est tondere, non deglubere pecus. - На добрия пастир е присъщо да стриже, не да дере добитъка.
-
-
-
+Boni pastoris est tondere; non deglubere pecus. - На добрия пастир е присъщо да стриже; не да дере добитъка.
